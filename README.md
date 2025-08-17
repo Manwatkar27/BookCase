@@ -70,6 +70,7 @@ Choose an option from the menu (powered by a switch statement).
 7. Check Out Book
 8. Check In Book
 0. Exit Application
+   
 ===============================================
 
 Enter your choice:
