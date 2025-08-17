@@ -19,13 +19,21 @@ Implementing core features such as add, search, update, and display in a real-wo
 The system supports the following operations:
 
 🔴 Exit Application
+
 📕 Add a New Book
+
 📈 Upgrade Quantity of a Book
+
 🔍 Search a Book
+
 📚 Show All Books
+
 🧑‍🎓 Register Student
+
 📋 Show All Registered Students
+
 📤 Check Out Book
+
 📥 Check In Book
 
 ##🏗️ Project Structure
@@ -49,6 +57,7 @@ Concepts Used: Switch Statement, Classes & Objects, Arrays
 Run the Library.java file.
 
 ##📷 Example Menu
+
 Choose an option from the menu (powered by a switch statement).
 ===== BookCase - Library Management System =====
 1. Add a New Book
@@ -68,4 +77,4 @@ Enter your choice:
 This project is licensed under the MIT License – see the LICENSE file for details.
 Perform operations like adding books, searching, registering students, or checking out/in books.
 
-📷 Example Menu (Console Output)
+ Menu (Console Output)
