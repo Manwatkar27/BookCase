@@ -1,10 +1,10 @@
-#📚 BookCase – Library Management System (Java, Switch Statement)
+# 📚 BookCase – Library Management System (Java, Switch Statement)
 
 Managing a library is often a challenging task, as it requires keeping track of books, their availability, and student borrowings. BookCase is a mini-project built in Java using a switch statement to demonstrate how a simple library management system can be designed.
 
 This project is menu-driven and focuses on strengthening Java fundamentals like classes, objects, and switch-case logic.
 
-##🚀 Why Build This Project?
+## 🚀 Why Build This Project?
 
 Building this project helps in understanding:
 
@@ -14,7 +14,7 @@ Managing data with classes and objects.
 
 Implementing core features such as add, search, update, and display in a real-world scenario.
 
-##✨ Features
+## ✨ Features
 
 The system supports the following operations:
 
@@ -36,7 +36,7 @@ The system supports the following operations:
 
 📥 Check In Book
 
-##🏗️ Project Structure
+## 🏗️ Project Structure
 
 The project is organized into multiple Java files, each responsible for a specific functionality:
 
@@ -48,17 +48,18 @@ student.java	Represents details of an individual student.
 students.java	Manages student records and borrowing activities.
 ⚙️ Tech Stack
 
-##Language: Java
+## Language: Java
 
 Concepts Used: Switch Statement, Classes & Objects, Arrays
 
-##📌 How It Works
+## 📌 How It Works
 
 Run the Library.java file.
 
-##📷 Example Menu
+## 📷 Example Menu
 
 Choose an option from the menu (powered by a switch statement).
+
 ===== BookCase - Library Management System =====
 1. Add a New Book
 2. Upgrade Quantity of a Book
@@ -70,11 +71,12 @@ Choose an option from the menu (powered by a switch statement).
 8. Check In Book
 0. Exit Application
 ===============================================
+
 Enter your choice:
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 Perform operations like adding books, searching, registering students, or checking out/in books.
 
- Menu (Console Output)
+
